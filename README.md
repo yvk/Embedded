@@ -1,1 +1,1 @@
-# Embedded
+# Simple MIPS Simulator
